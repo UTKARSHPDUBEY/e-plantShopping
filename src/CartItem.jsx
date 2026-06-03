@@ -20,7 +20,7 @@ const CartItem = ({ onContinueShopping }) => {
     onContinueShopping(e); // Call the onContinueShopping function passed as a prop to navigate back to the product list
   };
   const handleCheckoutShopping = (e) => {
-    alert('Functionality to be added for future reference');
+    alert('Checkout functionality coming soon!');
   };
 
 
